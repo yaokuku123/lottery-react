@@ -1,4 +1,4 @@
-let web3 = require('./utils/initWeb3')
+let contractInstance = require('./eth/lotteryInstance')
 
 function App() {
   return (
